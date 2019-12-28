@@ -3,8 +3,18 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Andreas Lloyd'
-SITENAME = 'My personal blog'
+SITENAME = "Andreas Lloyd's blog about stuff"
 SITEURL = ''
+
+# Flex theme basic info
+SITETITLE = 'Filler'
+SITESUBTITLE = 'More filler!'
+SITEDESCRIPTION = 'python, data science, model, algorithm, business'
+
+# Main Menu
+MAIN_MENU = True
+MENUITEMS = (('Categories', '/categories'),)
+
 
 PATH = 'content'
 
@@ -20,14 +30,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Other', ''),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/andreas-lloyd/'),
+          ('github', 'https://github.com/andreas-lloyd'),
+          )
 
 DEFAULT_PAGINATION = 10
 
@@ -39,3 +47,7 @@ TYPOGRIFY = False
 
 # Theme
 THEME = 'Flex'
+
+# Invent some copyright stuff
+COPYRIGHT_NAME = AUTHOR
+COPYRIGHT_YEAR = 2020
