@@ -38,4 +38,4 @@ DEFAULT_PAGINATION = 10
 TYPOGRIFY = False
 
 # Theme
-THEME = './theme/Flex'
+THEME = 'Flex'
