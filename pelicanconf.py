@@ -36,3 +36,6 @@ DEFAULT_PAGINATION = 10
 
 # Typogrpahical improvements
 TYPOGRIFY = False
+
+# Theme
+THEME = './theme/Flex'
