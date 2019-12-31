@@ -7,9 +7,10 @@ SITENAME = "Andreas Lloyd's blog about stuff"
 SITEURL = ''
 
 # Flex theme basic info
-SITETITLE = 'Filler'
-SITESUBTITLE = 'More filler!'
+SITETITLE = 'Andreas Lloyd'
+SITESUBTITLE = 'Bits and pieces about data science'
 SITEDESCRIPTION = 'python, data science, model, algorithm, business, cabify'
+SITELOGO = '/images/photo.jpeg'
 
 # Main Menu
 MAIN_MENU = True
