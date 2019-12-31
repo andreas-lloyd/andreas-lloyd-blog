@@ -1,4 +1,4 @@
-Title: Who?
+Title: Who am I?
 Slug: about
 
 I'm a data scientist with a background in physics and a few years of experience in consultancy and start ups. Currently based in Spain, I am interested in all things data and especially how it can transform businesses and generate value at all levels of an organisation. 

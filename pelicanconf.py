@@ -39,7 +39,6 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (
-    ('email', 'andreas.mathew.lloyd@gmail.com'),
     ('linkedin', 'https://www.linkedin.com/in/andreas-lloyd/'),
     ('github', 'https://github.com/andreas-lloyd'),
 )

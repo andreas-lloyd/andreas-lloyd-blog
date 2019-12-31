@@ -1,2 +1,3 @@
 - Opening pages in new tab > turn off
 - Fix email > have seen plug in for emailing system
+- Remove master branch
