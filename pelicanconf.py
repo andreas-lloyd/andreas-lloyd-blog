@@ -30,7 +30,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Other', ''),)
+#LINKS = (,)
 
 # Social widget
 SOCIAL = (
