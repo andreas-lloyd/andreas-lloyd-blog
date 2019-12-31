@@ -9,7 +9,7 @@ SITEURL = ''
 # Flex theme basic info
 SITETITLE = 'Filler'
 SITESUBTITLE = 'More filler!'
-SITEDESCRIPTION = 'python, data science, model, algorithm, business'
+SITEDESCRIPTION = 'python, data science, model, algorithm, business, cabify'
 
 # Main Menu
 MAIN_MENU = True
@@ -33,9 +33,11 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Other', ''),)
 
 # Social widget
-SOCIAL = (('linkedin', 'https://www.linkedin.com/in/andreas-lloyd/'),
-          ('github', 'https://github.com/andreas-lloyd'),
-          )
+SOCIAL = (
+    ('email', 'andreas.mathew.lloyd@gmail.com'),
+    ('linkedin', 'https://www.linkedin.com/in/andreas-lloyd/'),
+    ('github', 'https://github.com/andreas-lloyd'),
+)
 
 DEFAULT_PAGINATION = 10
 
